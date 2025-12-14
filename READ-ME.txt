@@ -1,9 +1,35 @@
-  =>  Template Name    : Divine Banaras Tours - Free Tourism Website Template
+# DivineBanarasTours
 
-  =>  Template Link    : https://htmlcodex.com/tourism-website-template
+DivineBanarasTours is a static tourism website designed to showcase travel packages,
+services, and destinations in Varanasi, Prayagraj, and nearby regions.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+This project is built and customized for commercial and informational purposes.
 
-  =>  Template Author  : HTML Codex
+---
 
-  =>  Author Website   : https://htmlcodex.com
+## Template Information
+
+Template Name    : Divine Banaras Tours - Free Tourism Website Template  
+Template Link    : https://htmlcodex.com/tourism-website-template  
+Template License : https://htmlcodex.com/license  
+Template Author  : HTML Codex  
+Author Website   : https://htmlcodex.com  
+
+---
+
+## License
+
+This project uses a free HTML template provided by HTML Codex and is licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You must retain the original HTML Codex attribution unless a credit removal license
+is purchased.
+
+See the LICENSE file for full terms.
+
+---
+
+## Notes
+
+- Demo images included with the original template are for preview purposes only.
+- Replace demo images with properly licensed or original images before production use.
